@@ -1,0 +1,4 @@
+folder create
+git repository open
+git init
+git add .
