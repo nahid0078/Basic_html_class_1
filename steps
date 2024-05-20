@@ -1,4 +1,9 @@
 folder create
 git repository open
 git init
-git add .
+git add all files from change list
+repository connect kora
+git branch -M main
+git remote add origin
+push kora
+git hub pages setup
